@@ -1,0 +1,17 @@
+title: "C. Delgado"
+author: "C. Delgado"
+description: "AI coding-agent infrastructure and context engineering."
+url: "https://cdelgado70.github.io"
+baseurl: ""
+github_username: cdelgado70
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github, user_url: "https://github.com/cdelgado70" }
